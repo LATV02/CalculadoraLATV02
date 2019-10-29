@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">CalculadoraLATV02</string>
+    <string name="title">CALCULADORA</string>
+    <string name="description">images</string>
+    <string name="title2">OPCIONES</string>
+    <string name="suma">1. SUMA</string>
+    <string name="resta">2. RESTA</string>
+    <string name="multiplicacion">3. MULTIPLICACION</string>
+    <string name="division">4. DIVISION</string>
+    <string name="ingresar">Ingrese Opcion</string>
+    <string name="ingre">Ingrese un Numero</string>
+    <string name="btnsiguiente">SIGUIENTE</string>
+    <string name="imagess">sumadescrip</string>
+    <string name="titlesss">SUMA</string>
+    <string name="numero1">Ingrese numero 1</string>
+    <string name="numero2">Ingrese numero 2</string>
+    <string name="btnR">Realizar Operacion</string>
+    <string name="resultadoS" />
+    <string name="multi">MULTIPLICACION</string>
+    <string name="realizo">Acerca de...</string>
+    <string name="datos">Realizo: Torres Vite Luis Angel</string>
+    <string name="materia">Desarrollo de Aplicaciones Moviles</string>
+    <string name="profesor">Profesor De la O</string>
+    <string name="derechos">Derechos Reservados</string>
+    <string name="btnvolver">REGRESAR</string>
+    <string name="btnacercade">acerca de...</string>
+    <string name="tenor">click</string>
+</resources>
